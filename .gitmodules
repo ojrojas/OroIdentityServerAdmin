@@ -1,0 +1,3 @@
+[submodule "src/OroIdentityServer"]
+	path = src/OroIdentityServer
+	url = git@github.com:ojrojas/OroIdentityServer.git
